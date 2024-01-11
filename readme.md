@@ -1,0 +1,1 @@
+Test project from the training course
