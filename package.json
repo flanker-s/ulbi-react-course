@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "npm": "^8.5.1"
+  },
+  "name": "ulbi-course",
+  "description": "Test project from the training course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
